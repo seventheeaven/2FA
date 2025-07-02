@@ -1,0 +1,16 @@
+{
+  "name": "2fa-authentication",
+  "version": "1.0.0",
+  "description": "Two-Factor Authentication System",
+  "type": "module",
+  "scripts": {
+    "dev": "vite dev",
+    "build": "vite build",
+    "preview": "vite preview"
+  },
+  "devDependencies": {
+    "@sveltejs/vite-plugin-svelte": "^5.0.0",
+    "svelte": "^5.0.0",
+    "vite": "^5.0.3"
+  }
+} 
